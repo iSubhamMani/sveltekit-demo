@@ -1,0 +1,1 @@
+<h1 class="text-blue-500 font-bold text-4xl text-center">I'm a nav</h1>
